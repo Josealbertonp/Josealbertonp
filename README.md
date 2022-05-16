@@ -4,7 +4,7 @@ Hi 👋 My name is José Alberto
 Desenvolvedor Web e Front-end
 -----------------------------
 
-Estou aprendendo a programar a 2 anos comecei com C, mas realmente encontrei uma paixão Front-and e desenvolvimento...
+Estou aprendendo a programar a 2 anos comecei com C, mas realmente encontrei uma paixão Front-end e desenvolvimento...
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
