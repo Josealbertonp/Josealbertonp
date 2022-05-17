@@ -6,7 +6,7 @@ Desenvolvedor Web e Front-end
 
 Estou aprendendo a programar a 2 anos comecei com C, mas realmente encontrei uma paixão Front-end e desenvolvimento...
 
-* 🌍  Moro Brasil
+* 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
 ### Skills
