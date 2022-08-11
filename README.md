@@ -4,15 +4,15 @@ Hi 👋 My name is José Alberto
 Desenvolvedor Web e Front-end
 -----------------------------
 
-Estou aprendendo a programar a 2 anos comecei com C, mas realmente encontrei uma paixão Front-end e desenvolvimento...
+Estou aprendendo a programar a 3 anos comecei com C, mas realmente encontrei uma paixão Front-end e desenvolvimento...
 
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
 <div align="center">
   <a href="https://github.com/Joseal19">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joseal19&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseal19&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
