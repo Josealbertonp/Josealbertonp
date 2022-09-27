@@ -7,7 +7,7 @@ Desenvolvedor Web
 Estou aprendendo a programar a 3 anos comecei com C, mas realmente encontrei uma paixão Front-end e desenvolvimento...
 
 * 🌍  Moro no Brasil
-* ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:contato@josealbertonp.com)
+* ✉️  Você pode entrar em contato comigo em [contato@josealbertonp.com](mailto:contato@josealbertonp.com)
 
 <div align="center">
   <a href="https://github.com/joseal19">
