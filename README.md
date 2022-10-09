@@ -8,6 +8,7 @@ Estou aprendendo a programar a 3 anos comecei com C, mas realmente encontrei uma
 
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [contato@josealbertonp.com](mailto:contato@josealbertonp.com)
+* 🌐  Portfólio <a href="https://josealbertonp.netlify.app/" target="_blank" rel="noreferrer"> Click aqui</a>
 
 <div align="center">
   <a href="https://github.com/joseal19">
