@@ -18,10 +18,15 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 
 ### Socials
 
-[![My Socials](https://skillicons.dev/icons?i=instagram,&theme=dark)](https://www.instagram.com/josealberto_np/)
-[![My Socials](https://skillicons.dev/icons?i=linkedin,&theme=dark)](https://www.linkedin.com/in/josealbertonp/)
-[![My Socials](https://skillicons.dev/icons?i=github,&theme=dark)](https://github.com/Joseal19)
-[![My Socials](https://skillicons.dev/icons?i=discord,&theme=dark)](https://www.instagram.com/josealberto_np/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/josealbertonp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/josealberto_np/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
 
 
 ![](https://komarev.com/ghpvc/?username=joseal19&color=blue&style=flat)
