@@ -9,6 +9,13 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseal19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseal19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,js,react,vue,materialui,&theme=dark)](https://skillicons.dev)
 <br>
