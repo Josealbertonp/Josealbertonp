@@ -9,9 +9,14 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseal19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
-</div>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAl19&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoseAl19&theme=dark"/></td>
+    </tr>   
+  </table>
+</center> 
 
 ###
 
