@@ -12,8 +12,8 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAl19&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoseAl19&theme=dark"/></td>
+        <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAl19&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JoseAl19&theme=dark"/></td>
     </tr>   
   </table>
 </center> 
