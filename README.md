@@ -11,9 +11,9 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 
 <center>
   <table>
-  <a href= "https://github.com/Joseal19 ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseal19&count_private=true&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseal19&layout=compact&theme=dark"/>
+  <a href= "https://github.com/Josealbertonp">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josealbertonp&count_private=true&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josealbertonp&layout=compact&theme=dark"/>
   </table>
 </center> 
 
