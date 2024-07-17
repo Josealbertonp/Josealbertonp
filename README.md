@@ -12,15 +12,15 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 <center>
   <table>
   <a href= "https://github.com/Josealbertonp">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josealbertonp&count_private=true&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josealbertonp&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Josealbertonp&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josealbertonp&count_private=true&layout=compact&theme=dark&include_all_commits=true"/>
   </table>
 </center> 
 
 ###
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,js,react,vue,materialui,typescript,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,react,vue,materialui,typescript,&theme=dark&include_all_commits)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=nuxtjs,php,nodejs,tailwind,mysql,&theme=dark)](https://skillicons.dev)
 
