@@ -9,13 +9,10 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 * 🌍  Moro no Brasil
 * ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
-<center>
-  <table>
+ <div align="center">
   <a href= "https://github.com/Josealbertonp">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josealbertonp&count_private=true&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josealbertonp&count_private=true&layout=compact&theme=dark&include_all_commits=true"/>
-  </table>
-</center> 
+  <img src="https://streak-stats.demolab.com?user=Josealbertonp&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
