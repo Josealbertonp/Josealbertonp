@@ -18,7 +18,7 @@ Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluin
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=c,js,react,vue,materialui,typescript,&theme=dark&include_all_commits)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,php,nodejs,tailwind,mysql,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,php,nodejs,tailwind,mysql,java,&theme=dark)](https://skillicons.dev)
 
 
 
