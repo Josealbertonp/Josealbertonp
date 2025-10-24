@@ -1,16 +1,36 @@
 Hi 👋 My name is José Alberto
 =============================
 
-Desenvolvedor Full Stack
+💼 Pleno Full Stack Software Engineer
 -----------------------------
 
-Desenvolvedor full stack com ampla experiência em diversas tecnologias, incluindo JavaScript, PHP, HTML, CSS, ReactJS, Node.js, Vue.js, Nuxt.js, TypeScript e React Native. Atualmente, estou cursando Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), onde tenho a oportunidade de aprimorar meus conhecimentos teóricos e práticos na área de computação. Além disso, aplico os conceitos aprendidos em projetos práticos, buscando sempre a inovação e a qualidade em minhas soluções. Tenho habilidades no uso de frameworks como Tailwind e Element IO para desenvolvimento de aplicações web dinâmicas e responsivas. 
+💻 Java | 🌐 Angular | ⚙️ PHP | 🧩 React.js | 🧠 Vue.js | 🧱 JSF | 🖥️ Node.js | 🐍 Python | 🌀 TypeScript | 🎨 Tailwind CSS
 
-* ✉️  Você pode entrar em contato comigo em [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
+Experienced Software Engineer with a strong background in Java, Angular, and PHP, developing and maintaining scalable, high-performance web applications. Skilled in combining modern front-end frameworks (Angular, React.js, Vue.js) with robust back-end technologies (Java, Node.js, PHP) to deliver efficient and maintainable software solutions.
+
+Proven experience in API integration, responsive design, and enterprise-level systems. Focused on writing clean, maintainable, and well-documented code aligned with industry best practices. Experienced in collaborative environments using Agile methodologies (Scrum/Kanban) and modern development workflows with Git and CI/CD pipelines.
+
+Core Skills:
+
+Programming Languages: Java, PHP, JavaScript, TypeScript, Python, HTML, CSS, SQL
+
+Frameworks & Libraries: Angular, React.js, Vue.js, JSF, Node.js, Laravel
+
+Tools & Platforms: Visual Studio Code, Git/GitHub/Bitbucket, Postman, Docker
+
+Databases: MySQL, PostgreSQL
+
+Methodologies: MVC, RESTful API Design, Agile (Scrum/Kanban)
+
+Collaboration: JIRA, Confluence, Slack, Trello
+
+Committed to delivering high-quality software, improving system performance, and continuously enhancing technical expertise to meet business and user needs effectively.
+
+* ✉️ You can contact me at [albertoj098@gmail.com](mailto:albertoj098@gmail.com)
 
 <div align="center">
   <a href= "https://github.com/Josealbertonp">
-  <img src="https://streak-stats.demolab.com?user=Josealbertonp&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josealbertonp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
